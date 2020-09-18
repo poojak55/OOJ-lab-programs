@@ -105,7 +105,7 @@ default:
    printf("\nEnter value Valid Operator!!!\n");
    printf("\n\n Enter value Again for a New Input\n");
 }
-getch();
+
 }
 return 0;
 }
